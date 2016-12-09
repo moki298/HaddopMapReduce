@@ -1,4 +1,4 @@
-# project3 Hadoop MapReduce Analysis - Books Set
+# Project3 Hadoop MapReduce Analysis - Books Set
 
 The data set used in this project is available at openlibrary.org.
 The data will be analyzed using Hadoop.
